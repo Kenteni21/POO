@@ -10,9 +10,9 @@ Durante as aulas, aprendemos conceitos fundamentais de POO, como classes, objeto
 Os desafios enfrentados ao longo do semestre nos ajudaram a crescer como desenvolvedor. A resolução de problemas, o trabalho em equipe e a análise crítica de código foram aspectos valiosos dessa jornada acadêmica.
 
 ## Agradecimento
-Quero expressar minha profunda gratidão ao professor por sua dedicação, paciência e apoio constante. Suas orientações e feedbacks foram essenciais para o nosso progresso.
+Queremos expressar nossa profunda gratidão ao professor por sua dedicação, paciência e apoio constante. Suas orientações e feedbacks foram essenciais para o nosso progresso.
 
 Agradecemos demais a vossa ajuda, professor!
 
 Dos queridos alunos,
-José Kenteni & Douglas Lacerda
+José Kenteni & Douglas Lacerda.
